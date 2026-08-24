@@ -59,7 +59,7 @@ The dashboard includes the following key performance indicators:
 
 ## 📸 Dashboard Preview
 
-![Starbucks Power BI Dashboard](screenshots/dashboard.png)
+![Starbucks Power BI Dashboard](screenshots/dashboard.png.jpeg)
 
 ---
 
